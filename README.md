@@ -2,9 +2,9 @@
 <br> 
 <h1 align="center">Hi 👋, I'm Yao Dossavi, Welcome to my profil !</h1>
 
-<h3 align="center"> </Aspiring Software Engineering | Data & AI Developement | Cybersecurity> </h3>
-
+<br>
 <h3 align="left"> 🤓 Who am I ? </h3>
+<h4 align="center"> </Aspiring Software Engineering | Data & AI Developement | Cybersecurity> </h4>
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yao-dossavi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn" height="30" width="40" /></a>
@@ -28,4 +28,5 @@
 </p>
 
 <br> 
+<h3 align="left"> 📊 My current streak stats ! ? </h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaodossavi-git&" alt="yaodossavi-git" /></p>
